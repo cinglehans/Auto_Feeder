@@ -1,0 +1,12 @@
+../Drivers/BSP/Motor_speed/motor_speed.c:19:6:MotorSpeed_Init	2
+../Drivers/BSP/Motor_speed/motor_speed.c:52:6:MotorSpeed_Start	2
+../Drivers/BSP/Motor_speed/motor_speed.c:67:7:MotorSpeed_Stop	2
+../Drivers/BSP/Motor_speed/motor_speed.c:82:15:MotorSpeed_Calculated	6
+../Drivers/BSP/Motor_speed/motor_speed.c:109:6:MotorSpeed_Update	9
+../Drivers/BSP/Motor_speed/motor_speed.c:168:7:MotorSpeed_GetSpeed	2
+../Drivers/BSP/Motor_speed/motor_speed.c:179:7:MotorSpeed_GetFilteredSpeed	2
+../Drivers/BSP/Motor_speed/motor_speed.c:190:14:MotorSpeed_GetState	2
+../Drivers/BSP/Motor_speed/motor_speed.c:200:6:MotorSpeed_Reset	2
+../Drivers/BSP/Motor_speed/motor_speed.c:225:6:MotorSpeed_SetUnit	4
+../Drivers/BSP/Motor_speed/motor_speed.c:256:7:MotorSpeed_ConvertUnit	10
+../Drivers/BSP/Motor_speed/motor_speed.c:298:6:HAL_TIM_IC_CaptureCallback	7

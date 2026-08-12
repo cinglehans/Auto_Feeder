@@ -1,0 +1,6 @@
+../Drivers/BSP/Motor_Control/Motor_Control.c:19:6:Motor_Enable	8	static
+../Drivers/BSP/Motor_Control/Motor_Control.c:27:6:Motor_Disable	8	static
+../Drivers/BSP/Motor_Control/Motor_Control.c:32:6:Motor_Init	8	static
+../Drivers/BSP/Motor_Control/Motor_Control.c:39:6:Motor_CW	8	static
+../Drivers/BSP/Motor_Control/Motor_Control.c:51:6:Motor_CCW	8	static
+../Drivers/BSP/Motor_Control/Motor_Control.c:62:6:Motor_Brake	8	static

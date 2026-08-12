@@ -1,0 +1,9 @@
+../Drivers/BSP/CRSF/CRSF.c:15:6:crsf_parser_init	16	static
+../Drivers/BSP/CRSF/CRSF.c:24:15:crsf_parse_byte	24	static
+../Drivers/BSP/CRSF/CRSF.c:70:22:crsf_process_frame	40	static
+../Drivers/BSP/CRSF/CRSF.c:93:17:crsf_extract_channel	24	static
+../Drivers/BSP/CRSF/CRSF.c:119:9:crsf_has_new_frame	24	static
+../Drivers/BSP/CRSF/CRSF.c:128:6:crsf_get_channels	16	static
+../Drivers/BSP/CRSF/CRSF.c:135:10:crsf_get_channel	16	static
+../Drivers/BSP/CRSF/CRSF.c:142:9:crsf_crc8	24	static
+../Drivers/BSP/CRSF/CRSF.c:158:10:crsf_map_raw_to_pulse	24	static
